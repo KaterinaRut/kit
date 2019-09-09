@@ -1,2 +1,3 @@
 kukusiki
 devachki
+priv\\salom
